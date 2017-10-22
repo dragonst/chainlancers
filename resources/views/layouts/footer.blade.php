@@ -362,6 +362,6 @@ window.ChatraSetup = {
 // /Chatra {/literal}
 </script>
 
-<script type="text/javascript" src="static/dist/common.bundle5ec8.js?3f1ddb1e40408337e690">
-</script><script type="text/javascript" src="static/dist/app.bundle5ec8.js?3f1ddb1e40408337e690"></script>
+<script type="text/javascript" src="/js/common.bundle5ec8.js?3f1ddb1e40408337e690">
+</script><script type="text/javascript" src="/js/app.bundle5ec8.js?3f1ddb1e40408337e690"></script>
 </body>

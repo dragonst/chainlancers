@@ -12,7 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('welcome', ['name' => 'World']);
+
+    return view('index', ['name' => 'World']);
 });
 
 Auth::routes();

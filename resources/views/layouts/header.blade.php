@@ -117,10 +117,10 @@
                 <div class="container">
                     <a class="navbar-brand py-3" href="index.html">
                         <img alt="jury.online" width="180" class="img-b d-none"
-                             src="static/img/logo-navbar.png">
+                             src="/img/logo-navbar.png">
 
                         <img alt="jury.online" width="180" class="img-w"
-                             src="{{ URL::to('img/logo-navbar-w.png') }}">
+                             src="img/logo-navbar-w.png">
                     </a>
 
                     <button class="navbar-toggler" type="button"

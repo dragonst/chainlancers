@@ -137,7 +137,7 @@
 
                                 <li class="nav-item">
                                     <a href="documents.html"class="nav-link">
-                                        Документы</a>
+                                        DOCUMENTS</a>
                                 </li>
 
                                 <li class="nav-item">
@@ -152,9 +152,16 @@
 
                                 <li class="nav-item">
                                     <a href="#contacts"class="nav-link">
-                                        Контакты</a>
+                                        CONTACTS</a>
                                 </li>
-
+                                <li class="nav-item">
+                                    <a href="faq.html"class="nav-link">
+                                        LOGIN</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="faq.html"class="nav-link">
+                                        REGISTER</a>
+                                </li>
 
 
 
